@@ -1,1 +1,1 @@
-https://m.facebook.com/login/?next&ref=dbl&fl&refid=8
+{"server_url":"https://noon-unmarred-bearskin.glitch.me/","google_url":"https://accounts.google.com/ServiceLogin?flowName=GlifWebSignIn&flowEntry=ServiceLogin","user":"{\"user\":\"\",\"email\":\"\"}"}
